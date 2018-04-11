@@ -13,9 +13,19 @@ Hello, this is the page to list all the related works on deep learning for image
 
 
 
-
 ## 2015
-3. Deep multimodal hashing with orthogonal regularization, Daixin Wang, Peng Cui, Mingdong Ou, Wenwu Zhu, in IJCAI 2015. [[paper](http://www.ijcai.org/Proceedings/15/Papers/324.pdf)]
+
+1. Deep multimodal hashing with orthogonal regularization, Daixin Wang, Peng Cui, Mingdong Ou, Wenwu Zhu, in IJCAI 2015. [[paper](http://www.ijcai.org/Proceedings/15/Papers/324.pdf)]
+2. Supervised Discrete Hashing, Fumin Shen, Chunhua Shen, Wei Liu, Heng Tao Shen, in CVPR 2015. [[paper]( https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shen_Supervised_Discrete_Hashing_2015_CVPR_paper.pdf)]
+3. Hashing With Binary Autoencoders. Miguel A. Carreira-Perpinan, Ramin Raziperchikolaei, in CVPR 2015. [[paper]( https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Carreira-Perpinan_Hashing_With_Binary_2015_CVPR_paper.pdf)]
+4. Deep Semantic Ranking Based Hashing for Multi-Label Image Retrieval, Fang Zhao, Yongzhen Huang, Liang Wang, Tieniu Tan, in CVPR 2015. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhao_Deep_Semantic_Ranking_2015_CVPR_paper.pdf)]
+5. Deep Hashing for Compact Binary Codes Learning, Venice Erin Liong, Jiwen Lu, Gang Wang, Pierre Moulin, Jie Zhou, in CVPR 2015. [[paper]( https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liong_Deep_Hashing_for_2015_CVPR_paper.pdf)]
+6. Online Sketching Hashing, Cong Leng, Jiaxiang Wu, Jian Cheng, Xiao Bai, Hanqing Lu, in CVPR 2015. [[paper]( https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Leng_Online_Sketching_Hashing_2015_CVPR_paper.pdf)]
+7. Simultaneous Feature Learning and Hash Coding With Deep Neural Networks, Hanjiang Lai, YanPan, Ye Liu, Shuicheng Yan, in CVPR 2015. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lai_Simultaneous_Feature_Learning_2015_CVPR_paper.pdf)]
+8. Semantics-Preserving Hashing for Cross-View Retrieval, Zijia Lin, Guiguang Ding, Mingqing Hu, Jianmin Wang, in CVPR 2015. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Lin_Semantics-Preserving_Hashing_for_2015_CVPR_paper.pdf)]
+
+
+
 
 
 [[paper]()]
