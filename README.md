@@ -1,7 +1,5 @@
 # deep-learning-for-image-retrieval
 
-Hello, this is the page to list all the related works on deep learning for image retrieval.
-
 ## 2018
 1.	Asymmetric Deep Supervised Hashing, Qing-Yuan Jiang, Wu-Jun Li, in AAAI 2018. [[paper](https://cs.nju.edu.cn/lwj/paper/AAAI18_ADSH.pdf)][[code](https://github.com/jiangqy/ADSH-AAAI2018)]
 2.	Deep Region Hashing for Generic Instance Search from Images, lianli Gao, Tao He, Jingkuan Song, Xing Xu, Heng Tao Shen, in AAAI 2018. [[paper](https://arxiv.org/pdf/1701.07901)]
