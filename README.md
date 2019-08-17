@@ -8,6 +8,36 @@
 5.	Transfer Adversarial Hashing for Hamming Space Retrieval, Zhangjie Cao, Mingsheng Long, Chao Huang, Jianmin Wang, in AAAI 2018. [[paper](https://arxiv.org/abs/1712.04616)][[code](https://github.com/thuml/TAH)]
 6.	Unsupervised Generative Adversarial Cross-modal Hashing, Jian Zhang, Yuxin Peng, Mingkuan Yuan, in AAAI 2018. [[paper](https://arxiv.org/abs/1712.00358)][[code](https://github.com/PKU-ICST-MIPL/UGACH_AAAI2018)]
 7.	Binary Generative Adversarial Networks for Image Retrieval, Jingkuan Song, Tao He, lianli Gao, Xing Xu, Alan Hanjalic, Heng Tao Shen, in AAAI 2018. [[paper](https://arxiv.org/abs/1708.04150)][[code](https://github.com/htconquer/BGAN)]
+8.  Deep Cauchy Hashing for Hamming Space Retrieval, Yue Cao, Mingsheng Long, Bin Liu, Jianmin Wang, in CVPR 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cao_Deep_Cauchy_Hashing_CVPR_2018_paper.pdf)][[code](https://github.com/thulab/DeepHash)]
+9.  Triplet-Center Loss for Multi-View 3D Object Retrieval, Xinwei He, Yang Zhou, Zhichao Zhou, Song Bai, Xiang Bai, in CVPR 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Triplet-Center_Loss_for_CVPR_2018_paper.pdf)]
+10.  3D Pose Estimation and 3D Model Retrieval for Objects in the Wild, Alexander Grabner, Peter M. Roth, Vincent Lepetit, in CVPR 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Grabner_3D_Pose_Estimation_CVPR_2018_paper.pdf)]
+11.  Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval, Chao Li, Cheng Deng, Ning Li, Wei Liu, Xinbo Gao, Dacheng Tao, in CVPR 2018. [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Self-Supervised_Adversarial_Hashing_CVPR_2018_paper.pdf)][[code](https://github.com/lelan-li/SSAH)]
+12.  PointNetVLAD: Deep Point Cloud Based Retrieval for Large-Scale Place Recognition, Mikaela Angelina Uy, Gim Hee Lee, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Uy_PointNetVLAD_Deep_Point_CVPR_2018_paper.pdf)][[code](https://github.com/mikacuy/pointnetvlad)]
+13.  Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking, Filip Radenović, Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, Ondřej Chum, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Radenovic_Revisiting_Oxford_and_CVPR_2018_paper.pdf)][[code](https://github.com/filipradenovic/revisitop)]
+14.  Look, Imagine and Match: Improving Textual-Visual Cross-Modal Retrieval With Generative Models, Jiuxiang Gu, Jianfei Cai, Shafiq R. Joty, Li Niu, Gang Wang, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gu_Look_Imagine_and_CVPR_2018_paper.pdf)][[code](https://github.com/gujiuxiang/Multimodal_Retrieval.pytorch)]
+15.  Bidirectional Retrieval Made Simple, Jônatas Wehrmann, Rodrigo C. Barros, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wehrmann_Bidirectional_Retrieval_Made_CVPR_2018_paper.pdf)][[code](https://github.com/jwehrmann/chain-vse)]
+16.  SketchMate: Deep Hashing for Million-Scale Human Sketch Retrieval, Peng Xu, Yongye Huang, Tongtong Yuan, Kaiyue Pang, Yi-Zhe Song, Tao Xiang, Timothy M. Hospedales, Zhanyu Ma, Jun Guo, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_SketchMate_Deep_Hashing_CVPR_2018_paper.pdf)][[code](http://sketchx.eecs.qmul.ac.uk/downloads/)]
+17.  Efficient Large-scale Approximate Nearest Neighbor Search on OpenCL FPGA, Jialiang Zhang, Soroosh Khoram, Jing Li, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Efficient_Large-Scale_Approximate_CVPR_2018_paper.pdf)][[code]()]
+18.  Fast Spectral Ranking for Similarity Search, Ahmet Iscen, Yannis Avrithis, Giorgos Tolias, Teddy Furon, Ondřej Chum, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Iscen_Fast_Spectral_Ranking_CVPR_2018_paper.pdf)][[code](https://github.com/ducha-aiki/manifold-diffusion)]
+19.  Learning Attribute Representations With Localization for Flexible Fashion Search, Kenan E. Ak, Ashraf A. Kassim, Joo Hwee Lim, Jo Yew Tham, in CVPR 2018.
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ak_Learning_Attribute_Representations_CVPR_2018_paper.pdf)][[code](https://github.com/ayushchopra96/Attribute_Fashion_Search)]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
+[[paper]()][[code]()]
 
 ## 2017
 1.	Deep asymmetric pairwise hashing, Fumin Shen, Xin Gao, Li Liu, Yang Yang, Heng To Shen, in ACM MM 2017. [[paper](http://cfm.uestc.edu.cn/~fshen/DAPH.pdf)]
@@ -39,7 +69,7 @@
 27.	Semi-Supervised Deep Hashing with a Bipartite Graph, Xinyu Yan, Lijun Zhang, Wu-Jun Li, in IJCAI 2017. [[paper](https://www.ijcai.org/proceedings/2017/0452.pdf)]
 28.	Deep Supervised Hashing with Nonlinear Projections, Sen Su, Gang Chen, Xiang Cheng, Rong Bi, in IJCAI 2017. [[paper](https://www.ijcai.org/proceedings/2017/0388.pdf)]
 29.	Discrete Similarity Transfer Network for Zero-shot Hashing, Yuchen Guo, Guiguang Ding, Jungong Han, Yue Gao, in IJCAI 2017. [[paper](http://static.ijcai.org/proceedings-2017/0245.pdf)]
-30.	Deep Supervised Discrete Hashing, Qi Li, Zhenan Sun, Ran He, Tieniu Tan, in NIPS 2017. [[paper](http://papers.nips.cc/paper/6842-deep-supervised-discrete-hashing.pdf)] 
+30.	Deep Supervised Discrete Hashing, Qi Li, Zhenan Sun, Ran He, Tieniu Tan, in NIPS 2017. [[paper](http://papers.nips.cc/paper/6842-deep-supervised-discrete-hashing.pdf)]
 
 ## 2016
 1.	Instance-aware hashing for multi-label image retrieval, Hanjiang Lai, Pan Yan, Xiangbo Shu, Yunchao Wei, Shuicheng Yan, in TIP 2016. [[paper](https://ieeexplore.ieee.org/document/7438833/)]
@@ -80,4 +110,3 @@
 20.	Cross-Domain Image Retrieval With a Dual Attribute-Aware Ranking Network, Junshi Huang, Rogerio S. Feris, Qiang Chen, Shuicheng Yan, in ICCV 2015. [[paper](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Huang_Cross-Domain_Image_Retrieval_ICCV_2015_paper.pdf)]
 21.	Scalable Multimedia Retrieval by Deep Learning Hashing with Relative Similarity Learning, Lianli Gao, Jingkuan Song, Fuhao Zou, Dongxiang Zhang, Jie Shao, in ACM MM 2015. [[paper](https://dl.acm.org/citation.cfm?id=2806360)]
 22.	Deep Self-taught Hashing for Image Retrieval, Ke Zhou, Yu Liu, Jingkuan Song, Linyu Yan, Fuhao Zou, Fumin Shen, in ACM MM 2015. [[paper](https://dl.acm.org/citation.cfm?id=2806320)]
-  
